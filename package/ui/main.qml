@@ -48,11 +48,11 @@ LatteComponents.IndicatorItem {
 
         opacity: {
             if (indicator.isHovered && indicator.hasActive) {
-                return 0.5;
-            } else if (indicator.hasActive) {
                 return 0.4;
+            } else if (indicator.hasActive) {
+                return 0.3;
             } else if (indicator.isHovered) {
-                return 0.3
+                return 0.2
             }
 
             return 0;
