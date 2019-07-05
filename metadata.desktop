@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Dash To Panel
-Comment=Dash To Panel Latte indicator style
+Name=Dash To Panel Mod
+Comment=Dash To Panel Latte indicator style modified
 
 Encoding=UTF-8
 Type=Service
@@ -12,9 +12,9 @@ X-Latte-MainScript=ui/main.qml
 X-Latte-ConfigUi=config/config.qml
 X-Latte-ConfigXml=config/main.xml
 
-X-KDE-PluginInfo-Author=Michail Vourlakos
-X-KDE-PluginInfo-Email=mvourlakos@gmail.com
-X-KDE-PluginInfo-Name=org.kde.latte.dashtopanel
+X-KDE-PluginInfo-Author=ripefig
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Name=org.kde.latte.dashtopanelmod
 X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Category=Latte Indicator
 X-KDE-PluginInfo-License=GPL v2+
